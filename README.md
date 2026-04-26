@@ -384,6 +384,22 @@ Adaptive Intelligence predictions · Auto-Recon findings · Stealth score
 
 ---
 
+---
+
+## 🛠 Development Status & Acknowledgments
+
+This project is currently under **active development**. We are constantly working on refining the scanning logic, expanding the service database, and improving the accuracy of risk assessments.
+
+### 🤖 AI-Assisted Development
+In our pursuit of building a more robust and intelligent tool, parts of the core logic, code optimization, and debugging process have been developed and refined with the assistance of **Claude AI (Anthropic)**. This collaboration helps in:
+* Ensuring high-quality code patterns.
+* Identifying edge cases in network protocol analysis.
+* Accelerating the debugging and refactoring of complex modules.
+
+*Note: While AI is used for optimization, all security logic and architectural decisions are carefully reviewed and verified for accuracy and safety.*
+
+---
+
 ## 📜 License
 
 [MIT License](LICENSE) — See LICENSE file for details.
