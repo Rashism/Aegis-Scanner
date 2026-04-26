@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Data & Cache
+data/cve_cache.json
+data/scan_history.json
+data/adaptive_intelligence.json
+
+# Reports (حاوی داده‌های حساس)
+reports/
+
+# Config با API keys
+aegis_config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -1,0 +1,36 @@
+{
+  "llm": {
+    "base_url": "http://localhost:11434",
+    "model": "llama3",
+    "timeout": 120,
+    "max_tokens": 2048,
+    "temperature": 0.1,
+    "enabled": true
+  },
+  "nmap": {
+    "binary_path": "nmap",
+    "default_timeout": 300,
+    "max_retries": 2,
+    "privileged": false
+  },
+  "network": {
+    "ping_timeout": 5.0,
+    "port_timeout": 10.0,
+    "max_concurrent": 50,
+    "default_mtu": 1500
+  },
+  "report": {
+    "output_dir": "reports",
+    "include_raw_nmap": true,
+    "include_ai_analysis": true,
+    "max_cves_per_service": 5
+  },
+  "api_keys": {
+    "_comment": "All optional — tool works without them",
+    "nvd_api_key": "",
+    "shodan_api_key": "",
+    "virustotal_api_key": "",
+    "abuseipdb_api_key": "",
+    "ipinfo_token": ""
+  }
+}
