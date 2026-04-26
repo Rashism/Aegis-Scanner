@@ -2,14 +2,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=AI-Powered+Network+Scanner;Red+Team+Edition+v4.0;Adaptive+Intelligence+%2B+Auto-Recon+%2B+Stealth+Scoring" alt="Typing SVG" />
 
+<div align="center">
 <pre>
-    ___                _     ____
+    ___                _     ____                               
    /   | ___  ____ _(_)____/ ___/_________ _____  ____  ___  _____
   / /| |/ _ \/ __ `/ / ___/\__ \/ ___/ __ `/ __ \/ __ \/ _ \/ ___/
- / ___ /  __/ /_/ / (__  )___/ / /__/ /_/ / / / / / / /  __/ /
-/_/  |_\___/\__, /_/____//____/\___/\__,_/_/ /_/_/ /_/\___/_/
-           /____/                                         
+ / ___ /  __/ /_/ / (__  )___/ / /__/ /_/ / / / / / / /  __/ /    
+/_/  |_\___/\__, /_/____//____/\___/\__,_/_/ /_/_/ /_/\___/_/     
+           /____/                                                 
 </pre>
+</div>
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Version](https://img.shields.io/badge/Version-4.0.0-red?style=for-the-badge)](https://github.com/Rashism/Aegis-Scanner)
